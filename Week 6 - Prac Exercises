@@ -1,0 +1,19 @@
+Task 0
+Introduction to camera projection --> matrices 
+Introduction to feature detection
+
+Task 1
+Match features between images (Harris) vs using SIFT matching 
+
+Task 2
+Find the position of a car in an image using feature detection/matching + check for outliers (RANSAC) 
+
+Task 3 
+Use stereo correspondence (stereo vision) to find the features in other camera and estimate the distance to the vehicle(s) 
+
+Task 4 
+Example of NN detection YOLO. To find distance to devehicle would need a depth map of scene (available CV algorithm?) 
+
+** Compare to "Environment Perception for self-driving cars - learner" 
+
+

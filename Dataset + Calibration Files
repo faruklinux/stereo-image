@@ -1,0 +1,9 @@
+Dataset + Calibration Files
+
+https://drivingstereo-dataset.github.io/
+
+
+Information regarding calibration files: https://github.com/yanii/kitti-pcl/blob/master/KITTI_README.TXT
+
+For monocular visual odometry, can simply use K matrix. Otherwise, P_rect_xx is suggested for the stereo image applications.
+
